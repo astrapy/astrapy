@@ -11,7 +11,7 @@
 
 - 🛠️ Working most of the time with python.
 
-- 🌱 Learning everyday
+- 🌱 Coding everyday
 
 <h3 align="left">Contact me on discord</h3>
 <p align="left">
