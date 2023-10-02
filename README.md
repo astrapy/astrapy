@@ -18,6 +18,10 @@
 <a href="https://discordapp.com/users/1098265027309469757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Discord server</h3>
+<p align="left">
+<a href="https://discord.gg/Mew2hcPem6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
+</p>
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=astrapy&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
