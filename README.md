@@ -7,11 +7,11 @@
   <h3 align="center">Developer</h3>
 
 <h1 align="center">Hello 👋, I'm astra.py</h1>
-<h3 align="center">I am a Python Full Stack, C++ and C# Programmer.</h3>
+<h3 align="center">I am a Full Stack Python Programmer.</h3>
 
-- 🛠️ Working most of the time with python.
+- 🛠️ Coding everyday.
 
-- 🌱 Coding everyday
+- 🌱 Send your ideas in my discord server!
 
 <h3 align="left">Contact me on discord</h3>
 <p align="left">
