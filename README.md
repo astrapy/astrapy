@@ -30,5 +30,5 @@
   <img src="https://img.shields.io/github/followers/astrapy?color=FF0000&style=for-the-badge&logo=github&label=Follow" alt="Profile Views">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/stars/astrapy?color=FF0000&style=for-the-badge&logo=github&label=Star" alt="Profile Views">
+  <img src="https://img.shields.io/github/stars/astrapy?color=FF0000&style=for-the-badge&logo=github&label=Star" alt="Profile Stars">
 </p>
