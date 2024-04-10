@@ -7,7 +7,7 @@
   <h3 align="center">Developer</h3>
 
 <h1 align="center">Hello 👋, I'm astra.py</h1>
-<h3 align="center">I am a Full Stack Python Programmer.</h3>
+<h3 align="center">Python, C++, LUA programmer.</h3>
 
 - 🛠️ Coding everyday.
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Discord server</h3>
 <p align="left">
-<a href="https://discord.gg/Mew2hcPem6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
 </p>
 
 <p align="center">
