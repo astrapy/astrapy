@@ -4,9 +4,8 @@
     <img src="2.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Developer</h3>
 
-<h1 align="center">I'm astra.py</h1>
+<h1 align="center">Working with zeros and ones</h1>
 <h3 align="center">Python, C++, LUA programmer.</h3>
 
 - Not everything has to be published
@@ -38,6 +37,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+“If you are a good hacker everybody knows you, But if you are a great hacker nobody knows you.”
 
 <h3 align="left">Contact me on discord</h3>
 <p align="left">
