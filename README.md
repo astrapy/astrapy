@@ -9,7 +9,7 @@
 
 <h3 align="left">Discord server</h3>
 <p align="left">
-<a href="https://discord.gg/FZpp7s6uqc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
+<a href="https://discord.gg/JzNtuekQP9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
 </p>
 
 <p align="center">
