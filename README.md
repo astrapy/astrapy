@@ -16,5 +16,5 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=astrapy&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/stars/astrapy?color=FF0000&style=for-the-badge&logo=github&label=Star" alt="Profile Stars">
+  <img src="https://img.shields.io/github/stars/astrapy?color=FF0000&style=for-the-badge&logo=github&label=Stars" alt="Profile Stars">
 </p>
