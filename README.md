@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Working with zeros and ones</h1>
-<h3 align="center">Python and C++ programmer.</h3>
+<h3 align="center">Full stack python developer.</h3>
 
 <h3 align="left">Discord server</h3>
 <p align="left">
