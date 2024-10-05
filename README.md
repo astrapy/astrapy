@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Working with zeros and ones</h1>
-<h3 align="center">Changed to C++ addiction</h3>
+<h3 align="center">Programming addiction</h3>
 
 <h3 align="left">Discord server</h3>
 <p align="left">
