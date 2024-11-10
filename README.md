@@ -9,12 +9,12 @@
 
 <h3 align="left">Discord server</h3>
 <p align="left">
-<a href="https://discord.gg/uYzHwJrCCV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
+<a href="https://discord.gg/625yjhNvpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Discord Profile</h3>
 <p align="left">
-<a href="[https://discord.gg/uYzHwJrCCV](https://discordapp.com/users/1098265027309469757)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
+<a href="[https://discord.gg/625yjhNvpv](https://discordapp.com/users/1098265027309469757)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
 </p>
 
 <p align="center">
