@@ -4,7 +4,7 @@
   </a>
 
 
-<h1 align="center">Data analyses and Machine learning</h1>
+<h1 align="center">Data analysis and Machine learning</h1>
 <h3 align="center">Programming addiction</h3>
 
 <h3 align="left">Discord server</h3>
