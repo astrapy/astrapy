@@ -50,12 +50,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/astrapy/astrapy/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/astrapy/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=astrapy.astrapy&"  />
 </div>
 
 ###
